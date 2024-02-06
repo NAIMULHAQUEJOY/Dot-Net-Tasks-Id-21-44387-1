@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Education";
+}
+
+<a href="@Url.Action("Index","Home")">Index</a>
+<a href="@Url.Action("Education","Home")">Education</a>
+<a href="@Url.Action("Personal","Home")">Personal</a>
+<a href="@Url.Action("Project","Home")">Projects</a>
+<a href="@Url.Action("Reference","Home")">Reference</a>
+
+<h2>Education</h2>
+<table>
+    <tr>
+        <th>Degree</th>
+        <th>Year</th>
+        <th>Institute</th>
+
+    </tr>
+    @foreach (var i in ViewBag.Students)
+    {
+        <tr>
+            <td>@i.degree</td>
+            <td>@i.year</td>
+            <td>@i.institute</td>
+        </tr>
+    }
+</table>
+

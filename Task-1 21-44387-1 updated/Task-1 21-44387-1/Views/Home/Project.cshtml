@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Project";
+}
+<a href="@Url.Action("Index","Home")">Index</a>
+<a href="@Url.Action("Education","Home")">Education</a>
+<a href="@Url.Action("Personal","Home")">Personal</a>
+<a href="@Url.Action("Project","Home")">Projects</a>
+<a href="@Url.Action("Reference","Home")">Reference</a>
+
+<h2>Project</h2>
+@foreach (var i in ViewBag.Students)
+{
+<ul>
+    <li>@i.project</li>
+</ul>
+}
+
+
+
+
