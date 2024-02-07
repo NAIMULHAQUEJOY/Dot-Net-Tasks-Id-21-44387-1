@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\Task-2 7-2-24.staticwebassets.runtime.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\Task-2 7-2-24.exe
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\Task-2 7-2-24.deps.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\Task-2 7-2-24.runtimeconfig.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\Task-2 7-2-24.dll
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\bin\Debug\net8.0\Task-2 7-2-24.pdb
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.AssemblyInfo.cs
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets\msbuild.Task-2 7-2-24.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets\msbuild.build.Task-2 7-2-24.props
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task-2 7-2-24.props
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task-2 7-2-24.props
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\scopedcss\bundle\Task-2 7-2-24.styles.css
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\scopedcss\projectbundle\Task-2 7-2-24.bundle.scp.css
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.dll
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\refint\Task-2 7-2-24.dll
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.pdb
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\Task-2 7-2-24.genruntimeconfig.cache
+C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\obj\Debug\net8.0\ref\Task-2 7-2-24.dll
