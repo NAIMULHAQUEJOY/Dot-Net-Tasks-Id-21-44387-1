@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj": {}
+    "H:\\AIUB Classes\\10 Semester\\Adv Dot Net\\Lab\\Dot-Net-Tasks-Id-21-44387-1\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj": {
+    "H:\\AIUB Classes\\10 Semester\\Adv Dot Net\\Lab\\Dot-Net-Tasks-Id-21-44387-1\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj",
+        "projectUniqueName": "H:\\AIUB Classes\\10 Semester\\Adv Dot Net\\Lab\\Dot-Net-Tasks-Id-21-44387-1\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj",
         "projectName": "Task-2 7-2-24",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj",
+        "projectPath": "H:\\AIUB Classes\\10 Semester\\Adv Dot Net\\Lab\\Dot-Net-Tasks-Id-21-44387-1\\Task-2 7-2-24\\Task-2 7-2-24\\Task-2 7-2-24.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Task-2 7-2-24\\Task-2 7-2-24\\obj\\",
+        "outputPath": "H:\\AIUB Classes\\10 Semester\\Adv Dot Net\\Lab\\Dot-Net-Tasks-Id-21-44387-1\\Task-2 7-2-24\\Task-2 7-2-24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

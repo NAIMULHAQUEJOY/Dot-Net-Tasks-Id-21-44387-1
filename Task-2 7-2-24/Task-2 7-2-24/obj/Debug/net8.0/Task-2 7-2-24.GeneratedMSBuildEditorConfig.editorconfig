@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Task_2_7_2_24
 build_property.RootNamespace = Task_2_7_2_24
-build_property.ProjectDir = C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24\
+build_property.ProjectDir = H:\AIUB Classes\10 Semester\Adv Dot Net\Lab\Dot-Net-Tasks-Id-21-44387-1\Task-2 7-2-24\Task-2 7-2-24\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\Task-2 7-2-24\Task-2 7-2-24
+build_property.MSBuildProjectDirectory = H:\AIUB Classes\10 Semester\Adv Dot Net\Lab\Dot-Net-Tasks-Id-21-44387-1\Task-2 7-2-24\Task-2 7-2-24
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/Home/Contact.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/Home/Index.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/Home/Privacy.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/Shared/Error.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/Shared/_ValidationScriptsPartial.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/_ViewImports.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/_ViewStart.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Task-2 7-2-24/Task-2 7-2-24/Views/Shared/_Layout.cshtml]
+[H:/AIUB Classes/10 Semester/Adv Dot Net/Lab/Dot-Net-Tasks-Id-21-44387-1/Task-2 7-2-24/Task-2 7-2-24/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1o0x382uv8

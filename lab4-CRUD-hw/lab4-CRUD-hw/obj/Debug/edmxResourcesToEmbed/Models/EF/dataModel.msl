@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="lab3DbModelStoreContainer" CdmEntityContainer="lab3DbEntities">
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="lab3DbModel.Cours">
+        <MappingFragment StoreEntitySet="Courses">
+          <ScalarProperty Name="cId" ColumnName="cId" />
+          <ScalarProperty Name="courseCode" ColumnName="courseCode" />
+          <ScalarProperty Name="cName" ColumnName="cName" />
+          <ScalarProperty Name="credit" ColumnName="credit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="lab3DbModel.Department">
+        <MappingFragment StoreEntitySet="Departments">
+          <ScalarProperty Name="dId" ColumnName="dId" />
+          <ScalarProperty Name="dname" ColumnName="dname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="lab3DbModel.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="sId" ColumnName="sId" />
+          <ScalarProperty Name="sName" ColumnName="sName" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="cgpa" ColumnName="cgpa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
